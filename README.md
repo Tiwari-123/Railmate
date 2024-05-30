@@ -1,11 +1,6 @@
-# Train Ticket Reservation System 
-<!-- - Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw -->
-- Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
-<!-- - Live Url: https://traintickets.herokuapp.com <br>  -->
-<!-- - Login Credentials: admin/admin -->
 
 ### About:
-This project is about the Train-Ticket-Reservation-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
+This project is about the Train-Ticket-Reservation-System which is used to view Train schedules, search trains, Seat availability, and Train timings. We can also enquire about the fares of different trains. We can get information about trains between the two stations. We can book seats online. This provides a safe and secure seat reservation system. 
 ### Online Train Information and Reservation
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - View Trains Schedule
